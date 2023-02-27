@@ -1,0 +1,41 @@
+Intensidade da corrente elétrica:
+
+	I = deltaQ/deltat, I = Intensidade elétrica, Q = quantidade de carga, t = tempo.
+	Unidade resultante da fórmula: ampère, (A).
+	É válido lembrar que a caracterização do sentido da corrente pode ser feita ao auferir o sentido oposto ao movimento dos elétrons livres, ou seja, o sentido de carga positiva. Por exemplo, se elétrons livres passam da esquerda para a direita em um seção reta de um condutor, diz-se que o sentido da corrente é da direita para a esquerda. 
+
+Trabalho, energia, e potência elétrica:
+	
+	Tab = q..V
+	V = Va - Vb
+
+	onde
+
+	Energia potencial elétrica no ponto A:
+		Ua = q..Va
+
+	Energia potencial elétrica no ponto B:
+		Ub = q..Vb
+
+	Trabalho da Força elétrica (consumo de energia elétrica):
+		Tab = Ua - Ub
+	
+	Pela definição de potência: 
+		P = Tab/deltat = qV/q/I => P = V.I
+	
+	Unidades resultantes no SI: 1W = 1V . 1A 
+	Onde P=Watt(W), V=Volt(V), I=Ampère(A).
+
+Velocidade média dos elétrons:
+	Essa fórmula apareceu em um dos exercícios e não muita explicação foi dada sobre ela, então talvez minha interpretação sobre as variáveis esteja incorreta, caso a correção apareça ou eu a descubra(kkkk) , atualizarei o arquivo. 
+
+	v = I/n.S.e
+
+	Onde v = velocidade média, I = intensidade elétrica, n = número de elétrons, S = tamanho da secção, e = carga dos elétrons.
+
+
+
+		
+
+	
+

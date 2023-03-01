@@ -1,0 +1,20 @@
+body {
+	background-color: purple;
+	color: yellow;
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+	height: 200px;
+}
+
+.equal-sign {
+	font-size: 80px;
+}
+
+#naruto {
+	height: 300px;
+	width: 500px;
+}
+

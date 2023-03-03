@@ -34,6 +34,9 @@ Velocidade média dos elétrons:
 	Onde v = velocidade média, I = intensidade elétrica, n = número de elétrons, S = tamanho da secção, e = carga dos elétrons.
 
 
+Kilowatts por hora:
+	(p * h * d)/1000
+
 
 		
 

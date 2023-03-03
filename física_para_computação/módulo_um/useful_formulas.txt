@@ -37,7 +37,8 @@ Velocidade média dos elétrons:
 Kilowatts por hora:
 	(p * h * d)/1000
 
-
+Resistência elétrica:
+	V = R*i
 		
 
 	
